@@ -1,0 +1,12 @@
+v3
+
+- fix item stack size inside hopper (reported by Borilion)
+
+v2
+
+- updated whitelist to solid blocks
+- piston crusher function added (push a block against obsidian breaks it)
+
+v1
+
+- initial release

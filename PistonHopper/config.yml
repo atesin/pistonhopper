@@ -1,0 +1,60 @@
+# This plugin is intended to encourage building by supply materials easily
+#
+# I tried to put all piston movable blocks, not unobtainable with silk touch
+# Please report bugs or suggestions at dev.bukkit.org/bukkit-plugins/pistonhopper/
+
+# 1.8 full solid block material names
+
+whitelist:
+- STONE
+- GRASS
+- DIRT
+- COBBLESTONE
+- WOOD
+- SAND
+- GRAVEL
+- GOLD_ORE
+- IRON_ORE
+- COAL_ORE
+- LOG
+- SPONGE
+- GLASS
+- LAPIS_ORE
+- LAPIS_BLOCK
+- SANDSTONE
+- WOOL
+- GOLD_BLOCK
+- IRON_BLOCK
+- BRICK
+- TNT
+- BOOKSHELF
+- MOSSY_COBBLESTONE
+- DIAMOND_ORE
+- DIAMOND_BLOCK
+- WORKBENCH
+- REDSTONE_ORE
+- ICE
+- SNOW_BLOCK
+- CLAY
+- NETHERRACK
+- SOUL_SAND
+- GLOWSTONE
+- STAINED_GLASS
+- MYCEL
+- NETHER_BRICK
+- ENDER_STONE
+- EMERALD_ORE
+- EMERALD_BLOCK
+- REDSTONE_BLOCK
+- QUARTZ_ORE
+- QUARTZ_BLOCK
+- STAINED_CLAY
+- LOG_2
+- SLIME_BLOCK
+- PRISMARINE
+- SEA_LANTERN
+- HAY_BLOCK
+- HARD_CLAY
+- COAL_BLOCK
+- PACKED_ICE
+- RED_SANDSTONE
